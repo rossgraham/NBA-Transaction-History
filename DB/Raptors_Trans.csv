@@ -1,0 +1,500 @@
+date,type,teams,assets
+1995-09-18,Traded,TOR;GSW,[Victor Alexander;Martin Lewis;Michael McDonald;Carlos Rogers;Dwayne Whitfield];[B.J. Armstrong]
+1995-10-04,Released,TOR,Jerome Kersey
+1995-10-05,Signed,TOR,Alvin Robertson
+1995-10-06,Signed,TOR,Thomas Hamilton
+1995-10-18,Waived,TOR,Thomas Hamilton
+1995-11-01,Signed,TOR,Tracy Murray
+1995-11-02,Waived,TOR,Dwayne Whitfield
+1996-02-02,Waived,TOR,John Salley
+1996-02-18,Traded,TOR;NYK,[Doug Christie;Herb Williams];[Victor Alexander;Willie Anderson]
+1996-02-18,Traded,NYK;TOR,[Victor Alexander;Willie Anderson];[Doug Christie;Herb Williams]
+1996-02-22,Traded,PHI;TOR,[Tony Massenburg;Ed Pinckney;1997 Round 2 Draft Pick (James Collins)];[Sharone Wright]
+1996-02-23,Signed,TOR,Dwayne Whitfield
+1996-02-23,Waived,TOR,Herb Williams
+1996-04-09,Signed,TOR,Dan O'Sullivan
+1996-04-18,Waived,TOR,Dan O'Sullivan
+1996-06-26,Drafted,TOR,Marcus Camby
+1996-07-02,Waived,TOR,Vincenzo Esposito
+1996-07-23,Traded,TOR;DAL,[Popeye Jones;1997 Round 1 Draft Pick (John Thomas)];[Jimmy King;1998 Round 1 Draft Pick (Ansu Sesay);1999 Round 2 Draft Pick (Gordan Giricek)]
+1996-07-23,Released,TOR,Oliver Miller
+1996-07-24,Traded,TOR;NYK,[Hubert Davis];[1997 Round 1 Draft Pick (John Thomas)]
+1996-07-24,Released,TOR,Alvin Robertson
+1996-07-24,Released,TOR,Dwayne Whitfield
+1996-07-24,Traded,NYK;TOR,[1997 Round 1 Draft Pick (John Thomas)];[Hubert Davis]
+1996-08-29,Signed,TOR,Walt Williams
+1996-10-03,Signed,TOR,Donald Whiteside
+1996-10-11,Signed,TOR,Benoit Benjamin
+1996-10-15,Waived,TOR,Michael McDonald
+1996-11-12,Waived,TOR,Benoit Benjamin
+1996-11-13,Signed,TOR,Brad Lohaus
+1996-11-29,Signed,TOR,John Long
+1996-12-02,Signed,TOR,Earl Cureton
+1996-12-02,Waived,TOR,Brad Lohaus
+1997-01-06,Waived,TOR,Donald Whiteside
+1997-01-12,Signed,TOR,Jimmy Oliver
+1997-01-23,Signed,TOR,Clifford Rozier
+1997-01-25,Signed,TOR,Reggie Slater
+1997-02-01,Signed,TOR,Clifford Rozier
+1997-02-03,Signed,TOR,Reggie Slater
+1997-02-13,Signed,TOR,Oliver Miller
+1997-02-20,Traded,TOR;MIL,[Shawn Respert];[Acie Earl]
+1997-06-25,Drafted,TOR,Tracy McGrady
+1997-07-02,Released,TOR,Hubert Davis
+1997-10-02,Signed,TOR,Chris Garner
+1997-10-02,Signed,TOR,Brandon Williams
+1997-10-02,Signed,TOR,John Coker
+1997-10-06,Waived,TOR,Martin Lewis
+1997-10-10,3-team trade,NYK;TOR;POR,[Chris Dudley;2000 Round 1 Draft Pick (Quentin Richardson)];[John Wallace];[1998 Round 1 Draft Pick (Bryce Drew);2007 Round 2 Draft Pick (Taurean Green)]
+1997-10-10,3-team trade,TOR;NYK;POR,[John Wallace];[Chris Dudley;2000 Round 1 Draft Pick (Quentin Richardson)];[1998 Round 1 Draft Pick (Bryce Drew);2007 Round 2 Draft Pick (Taurean Green)]
+1997-10-10,3-team trade,TOR;NYK;POR,[John Wallace];[2000 Round 1 Draft Pick (Quentin Richardson);Chris Dudley];[2007 Round 2 Draft Pick (Taurean Green);1998 Round 1 Draft Pick (Bryce Drew)]
+1997-10-17,Waived,TOR,John Coker
+1997-10-21,Signed,TOR,Ed Stokes
+1997-10-28,Waived,TOR,Brandon Williams
+1997-11-30,Signed,TOR,Oliver Miller
+1997-12-01,Signed,TOR,Tim Kempton
+1997-12-01,Waived,TOR,Ed Stokes
+1998-01-05,Waived,TOR,Tim Kempton
+1998-01-06,Signed,TOR,Bob McCann
+1998-01-06,Signed,TOR,Lloyd Daniels
+1998-01-12,Waived,TOR,Bob McCann
+1998-02-13,Traded,TOR;POR,[Kenny Anderson;Gary Trent;Alvin Williams;Bryce Drew;Mirsad Turkcan;Tyson Wheeler];[Carlos Rogers;Damon Stoudamire;Walt Williams]
+1998-02-18,Traded,TOR;BOS,[Chauncey Billups;Dee Brown;Roy Rogers;John Thomas];[Kenny Anderson;Popeye Jones;Zan Tabak]
+1998-03-19,Waived,TOR,Shawn Respert
+1998-06-09,Traded,TOR;HOU,[Kevin Willis];[Roy Rogers;Bryce Drew;Mirsad Turkcan]
+1998-06-24,Traded,TOR;GSW,[Vince Carter];[Antawn Jamison]
+1998-06-24,Drafted,TOR,Antawn Jamison
+1998-06-24,Drafted,TOR,Tyson Wheeler
+1998-06-25,Traded,TOR;NYK,[Sean Marks;Charles Oakley];[Marcus Camby]
+1998-06-25,Traded,NYK;TOR,[Marcus Camby];[Sean Marks;Charles Oakley]
+1999-01-21,3-team trade,TOR;DEN;MIN,[Jonathan Bender;2000 Round 1 Draft Pick (Morris Peterson);Micheal Williams;Zeljko Rebraca];[Tyson Wheeler;Chauncey Billups];[Bobby Jackson;Dean Garrett]
+1999-01-21,3-team trade,TOR;DEN;MIN,[2000 Round 1 Draft Pick (Morris Peterson);Micheal Williams;Zeljko Rebraca;Jonathan Bender];[Tyson Wheeler;Chauncey Billups];[Bobby Jackson;Dean Garrett]
+1999-01-21,Signed,TOR,Negele Knight
+1999-01-21,Signed,TOR,Michael Stewart
+1999-01-22,Signed,TOR,LaMark Baker
+1999-01-22,Signed,TOR,William Cunningham
+1999-02-17,Waived,TOR,William Cunningham
+1999-02-19,Waived,TOR,LaMark Baker
+1999-06-30,Drafted,TOR,Jonathan Bender
+1999-06-30,Drafted,TOR,Aleksandar Radojevic
+1999-08-01,Traded,IND;TOR,[Jonathan Bender];[Antonio Davis]
+1999-08-01,Released,TOR,Micheal Williams
+1999-08-05,Signed,TOR,Dell Curry
+1999-08-31,Released,TOR,Negele Knight
+1999-09-23,Signed,TOR,Muggsy Bogues
+1999-10-04,Signed,TOR,Antonio Lang
+2000-02-09,Claimed,TOR,Haywoode Workman
+2000-01-14,Signed,TOR,Antonio Lang
+2000-06-28,Drafted,TOR,Morris Peterson
+2000-06-28,Drafted,TOR,DeeAndre Hulett
+2000-08-03,Traded,TOR;ORL,[Fran Vazquez];[Tracy McGrady]
+2000-08-11,Signed,TOR,Mark Jackson
+2000-08-25,Signed,TOR,Kornel David
+2000-09-14,Released,TOR,Haywoode Workman
+2000-09-30,Traded,SAC;TOR,[Doug Christie];[Corliss Williamson]
+2000-10-02,Signed,TOR,Garth Joseph
+2000-10-20,Signed,TOR,Tyrone Corbin
+2000-10-25,Signed,TOR,Vladimir Stepania
+2000-10-28,Waived,TOR,Garth Joseph
+2000-10-30,Waived,TOR,Vladimir Stepania
+2001-01-12,Traded,TOR;DEN,[Keon Clark;Tracy Murray;Mamadou N'Diaye];[Garth Joseph;Aleksandar Radojevic;Kevin Willis]
+2001-02-22,Traded,DET;TOR,[Tyrone Corbin;Kornel David;Corliss Williamson;Fran Vazquez];[Eric Montross;Jerome Williams]
+2001-02-22,Traded,TOR;NYK,[Chris Childs;2002 Round 1 Draft Pick (Kareem Rush)];[Muggsy Bogues;Mark Jackson]
+2001-02-22,Traded,NYK;TOR,[Muggsy Bogues;Mark Jackson];[Chris Childs;2002 Round 1 Draft Pick (Kareem Rush)]
+2001-06-27,Drafted,TOR,Michael Bradley
+2001-07-18,Traded,CHI;TOR,[Charles Oakley];[Brian Skinner]
+2001-07-18,Traded,DET;TOR,[Zeljko Rebraca];[2002 Round 2 Draft Pick (Rasual Butler);2002 Round 2 Draft Pick (Tito Maddox)]
+2001-08-02,Traded,TOR;HOU,[Hakeem Olajuwon];[2002 Round 1 Draft Pick (Bostjan Nachbar);2002 Round 2 Draft Pick (Tito Maddox)]
+2001-09-28,Signed,TOR,Carlos Arroyo
+2001-10-12,Released,TOR,Sean Colson
+2001-10-26,3-team trade,TOR;MIA;CLE,[Don MacLean];[Chris Gatling];[Ricky Davis;Brian Skinner]
+2001-10-26,3-team trade,TOR;MIA;CLE,[Don MacLean];[Chris Gatling];[Brian Skinner;Ricky Davis]
+2001-10-29,Waived,TOR,Don MacLean
+2002-01-08,Waived,TOR,Carlos Arroyo
+2002-01-10,Signed,TOR,Jermaine Jackson
+2002-03-28,Signed,TOR,Derrick Dial
+2002-06-26,Traded,LAL;TOR,[Tracy Murray;Kareem Rush;2003 Round 2 Draft Pick (Luke Walton)];[Lindsey Hunter;Chris Jefferies]
+2002-06-26,Drafted,TOR,Kareem Rush
+2002-07-26,Signed,TOR,Nate Huffman
+2002-09-25,Traded,TOR;CLE,[Lamond Murray;Albert Miralles];[Michael Stewart;2007 Round 1 Draft Pick (Jared Dudley)]
+2002-09-28,Signed,TOR,Jelani McCoy
+2002-10-21,Signed,TOR,Voshon Lenard
+2002-10-25,Waived,TOR,Jermaine Jackson
+2002-11-06,Signed,TOR,Greg Foster
+2002-11-20,Signed,TOR,Jermaine Jackson
+2003-01-07,Waived,TOR,Jermaine Jackson
+2003-01-07,Waived,TOR,Greg Foster
+2003-01-13,Signed,TOR,Damone Brown
+2003-01-16,Waived,TOR,Nate Huffman
+2003-01-17,Signed,TOR,Rafer Alston
+2003-01-18,Signed,TOR,Art Long
+2003-01-23,Waived,TOR,Damone Brown
+2003-01-27,Signed,TOR,Zendon Hamilton
+2003-02-10,Signed,TOR,Maceo Baston
+2003-02-10,Waived,TOR,Zendon Hamilton
+2003-06-26,Traded,CHI;TOR,[2004 Round 2 Draft Pick (Chris Duhon)];[Matt Bonner]
+2003-06-26,Drafted,TOR,Chris Bosh
+2003-06-26,Drafted,TOR,Remon van de Hare
+2003-07-16,Signed,TOR,Jerome Moiso
+2003-07-16,Signed,TOR,Milt Palacio
+2003-07-17,Signed,TOR,Mengke Bateer
+2003-08-13,Signed,TOR,Rick Brunson
+2003-08-28,Traded,DET;TOR,[Lindsey Hunter];[Michael Curry]
+2003-10-26,Waived,TOR,Ken Johnson
+2003-11-25,Waived,TOR,Derrick Dial
+2003-12-01,Traded,CHI;TOR,[Antonio Davis;Chris Jefferies;Jerome Williams];[Lonny Baxter;Donyell Marshall;Jalen Rose]
+2003-12-16,Traded,CHI;TOR,[Rick Brunson];[Roger Mason]
+2004-01-02,Traded,TOR;ORL,[Robert Archibald;2005 Round 2 Draft Pick (Roko Ukic)];[Mengke Bateer;2005 Round 2 Draft Pick (Travis Diener)]
+2004-02-24,Signed,TOR,Jannero Pargo
+2004-02-28,Signed,TOR,Dion Glover
+2004-02-29,Waived,TOR,Lonny Baxter
+2004-03-05,Signed,TOR,Rod Strickland
+2004-03-12,Signed,TOR,Corie Blount
+2004-03-12,Waived,TOR,Michael Bradley
+2004-06-24,Traded,TOR;MIA,[Pape Sow;2005 Round 2 Draft Pick (Uros Slokar)];[Albert Miralles]
+2004-06-24,Drafted,TOR,Rafael Araujo
+2004-06-24,Drafted,TOR,Albert Miralles
+2004-07-14,Signed,TOR,Rafer Alston
+2004-08-18,Signed,TOR,Loren Woods
+2004-12-17,Traded,NJN;TOR,[Vince Carter];[Alonzo Mourning;Aaron Williams;Eric Williams;2005 Round 1 Draft Pick (Joey Graham);2006 Round 1 Draft Pick (Renaldo Balkman)]
+2005-02-11,Waived,TOR,Alonzo Mourning
+2005-04-09,Signed,TOR,Omar Cook
+2005-06-28,Drafted,TOR,Charlie Villanueva
+2005-06-28,Drafted,TOR,Joey Graham
+2005-06-28,Drafted,TOR,Roko Ukic
+2005-06-28,Drafted,TOR,Uros Slokar
+2005-08-03,Signed,TOR,Jose Calderon
+2005-09-02,Waived,TOR,Lamond Murray
+2005-10-04,Traded,TOR;HOU,[Mike James];[Rafer Alston]
+2005-11-16,Signed,TOR,Darrick Martin
+2006-01-31,Traded,TOR;NOK,[Edin Bavcic];[Aaron Williams]
+2006-02-03,Traded,TOR;NYK,[Antonio Davis];[Jalen Rose;Renaldo Balkman]
+2006-02-03,Traded,NYK;TOR,[Jalen Rose;Renaldo Balkman];[Antonio Davis]
+2006-03-15,Signed,TOR,Andre Barrett
+2006-03-23,Waived,TOR,Antonio Davis
+2006-03-27,Signed,TOR,James Lang
+2006-06-08,Traded,TOR;UTA,[Kris Humphries;Robert Whaley];[Rafael Araujo]
+2006-06-21,Traded,TOR;SAS,[Rasho Nesterovic];[Matt Bonner;Eric Williams]
+2006-06-28,Drafted,TOR,Andrea Bargnani
+2006-06-28,Drafted,TOR,P.J. Tucker
+2006-06-28,Drafted,TOR,Edin Bavcic
+2006-06-28,Sold,TOR,Edin Bavcic
+2006-06-30,Traded,TOR;MIL,[T.J. Ford];[Charlie Villanueva]
+2006-07-13,Signed,TOR,Anthony Parker
+2006-07-13,Waived,TOR,Andre Barrett
+2006-07-24,Signed,TOR,Jorge Garbajosa
+2006-07-25,Signed,TOR,Fred Jones
+2006-07-25,Released,TOR,Alvin Williams
+2006-09-17,Signed,TOR,Ken Johnson
+2007-02-22,Traded,TOR;POR,[Juan Dixon];[Fred Jones]
+2007-03-24,Waived,TOR,P.J. Tucker
+2007-03-25,Signed,TOR,Luke Jackson
+2007-06-15,Traded,DET;TOR,[2009 Round 2 Draft Pick (Jonas Jerebko);2011 Round 2 Draft Pick (Kyle Singler)];[Carlos Delfino]
+2007-06-28,Traded,TOR;SAS,[Georgios Printezis];[2008 Round 2 Draft Pick (Goran Dragic)]
+2007-07-10,Signed,TOR,Jamario Moon
+2007-07-11,Signed,TOR,Jason Kapono
+2007-07-25,Signed,TOR,Maceo Baston
+2007-10-29,Waived,TOR,Luke Jackson
+2008-02-21,Traded,DET;TOR,[Juan Dixon];[Primoz Brezec]
+2008-03-27,Signed,TOR,Linton Johnson
+2008-03-27,Waived,TOR,Darrick Martin
+2008-06-18,Waived,TOR,Jorge Garbajosa
+2008-06-26,Drafted,TOR,Roy Hibbert
+2008-07-08,Signed,TOR,Hassan Adams
+2008-07-09,Traded,IND;TOR,[Maceo Baston;T.J. Ford;Roy Hibbert;Rasho Nesterovic];[Nathan Jawai;Jermaine O'Neal]
+2008-08-28,Signed,TOR,Will Solomon
+2008-09-30,Signed,TOR,Jamal Sampson
+2008-10-22,Waived,TOR,Jamal Sampson
+2008-12-14,Signed,TOR,Jake Voskuhl
+2009-01-01,Traded,TOR;LAC,[];[Hassan Adams]
+2009-01-01,Traded,TOR,Hassan Adams
+2009-01-07,Released,TOR,Hassan Adams
+2009-02-13,Traded,TOR;MIA,[Marcus Banks;Shawn Marion];[Jamario Moon;Jermaine O'Neal;2011 Round 1 Draft Pick (Jonas Valanciunas)]
+2009-02-19,Sold,TOR,Will Solomon
+2009-02-19,Traded,TOR;BOS,[Patrick O'Bryant];[]
+2009-03-06,Signed,TOR,Pops Mensah-Bonsu
+2009-03-24,Signed,TOR,Quincy Douby
+2009-06-09,Traded,PHI;TOR,[Jason Kapono];[Reggie Evans]
+2009-06-25,Drafted,TOR,DeMar DeRozan
+2009-07-09,4-team trade,MEM;TOR;DAL;ORL,[Jerry Stackhouse];[Antoine Wright;Devean George;Hedo Turkoglu];[Greg Buckner;Shawn Marion;Nathan Jawai;Kris Humphries];[]
+2009-07-09,4-team trade,MEM;TOR;ORL;DAL,[Jerry Stackhouse];[Antoine Wright;Devean George;Hedo Turkoglu];[];[Greg Buckner;Shawn Marion;Nathan Jawai;Kris Humphries]
+2009-07-09,4-team trade,MEM;TOR;DAL;ORL,[Jerry Stackhouse];[Hedo Turkoglu;Antoine Wright;Devean George];[Greg Buckner;Shawn Marion;Nathan Jawai;Kris Humphries];[]
+2009-07-09,4-team trade,MEM;TOR;DAL;ORL,[Jerry Stackhouse];[Antoine Wright;Devean George;Hedo Turkoglu];[Shawn Marion;Nathan Jawai;Kris Humphries;Greg Buckner];[]
+2009-07-20,Signed,TOR,Jarrett Jack
+2009-07-29,Traded,TOR;GSW,[Marco Belinelli];[Devean George]
+2009-07-30,Signed,TOR,Rasho Nesterovic
+2009-08-18,Traded,TOR;MIL,[Amir Johnson;Sonny Weems];[Carlos Delfino;Roko Ukic]
+2009-11-12,Released,TOR,Quincy Douby
+2009-11-17,Signed,TOR,Pops Mensah-Bonsu
+2010-01-05,Released,TOR,Pops Mensah-Bonsu
+2010-04-04,Signed,TOR,Joey Dorsey
+2010-06-24,Traded,TOR;DAL,[Solomon Alabi];[2013 Round 2 Draft Pick (Jamaal Franklin)]
+2010-06-24,Drafted,TOR,Ed Davis
+2010-07-10,Traded,TOR;MIA,[2011 Round 1 Draft Pick (Norris Cole);2011 Round 1 Draft Pick (Jonas Valanciunas)];[Chris Bosh]
+2010-07-14,Traded,TOR;PHO,[Leandro Barbosa;Dwayne Jones];[Hedo Turkoglu]
+2010-07-26,Signed,TOR,Linas Kleiza
+2010-07-28,Traded,TOR;HOU,[David Andersen];[]
+2010-08-11,Traded,NOH;TOR,[Marco Belinelli];[Julian Wright]
+2010-08-13,Waived,TOR,Dwayne Jones
+2010-09-15,Signed,TOR,Ronald Dupree
+2010-10-19,Waived,TOR,Ronald Dupree
+2010-11-20,Traded,NOH;TOR,[David Andersen;Marcus Banks;Jarrett Jack];[Jerryd Bayless;Peja Stojakovic]
+2010-12-26,Signed,TOR,Ronald Dupree
+2011-01-05,Waived,TOR,Ronald Dupree
+2011-01-13,Signed,TOR,Sundiata Gaines
+2011-01-20,Waived,TOR,Peja Stojakovic
+2011-01-24,Traded,TOR;DAL,[Alexis Ajinca;2013 Round 2 Draft Pick (Jamaal Franklin)];[Georgios Printezis]
+2011-01-26,Signed,TOR,Trey Johnson
+2011-01-26,Waived,TOR,Sundiata Gaines
+2011-02-22,Traded,CHI;TOR,[Norris Cole];[James Johnson]
+2011-06-23,Drafted,TOR,Jonas Valanciunas
+2011-12-09,Signed,TOR,Jamaal Magloire
+2011-12-10,Signed,TOR,Rasual Butler
+2011-12-11,Signed,TOR,Aaron Gray
+2011-12-12,Signed,TOR,Anthony Carter
+2011-12-14,Signed,TOR,Gary Forbes
+2012-03-15,Traded,IND;TOR,[Leandro Barbosa];[Tomislav Zubcic]
+2012-03-15,Waived,TOR,Anthony Carter
+2012-03-23,Waived,TOR,Rasual Butler
+2012-03-26,Signed,TOR,Alan Anderson
+2012-03-26,Signed,TOR,Ben Uzoh
+2012-04-06,Signed,TOR,Justin Dentmon
+2012-06-28,Drafted,TOR,Terrence Ross
+2012-06-28,Drafted,TOR,Quincy Acy
+2012-06-28,Drafted,TOR,Tomislav Zubcic
+2012-07-11,Traded,TOR;HOU,[Kyle Lowry];[Gary Forbes;2013 Round 1 Draft Pick (Steven Adams)]
+2012-07-14,Signed,TOR,Landry Fields
+2012-07-16,Traded,SAC;TOR,[James Johnson];[DeAndre Daniels]
+2012-07-27,Signed,TOR,John Lucas III
+2012-09-12,Signed,TOR,Dominic McGuire
+2012-09-21,Signed,TOR,Chris Wright
+2012-10-22,Waived,TOR,Chris Wright
+2012-10-27,Waived,TOR,Jamaal Magloire
+2012-10-31,Signed,TOR,DeMar DeRozan
+2012-11-30,Signed,TOR,Mickael Pietrus
+2012-11-30,Waived,TOR,Dominic McGuire
+2013-01-30,3-team trade,DET;MEM;TOR,[Jose Calderon];[Tayshaun Prince;Austin Daye;Jamaal Franklin;Ed Davis;Jose Calderon];[Hamed Haddadi;Rudy Gay]
+2013-01-30,3-team trade,DET;MEM;TOR,[Jose Calderon];[Jamaal Franklin;Ed Davis;Jose Calderon;Tayshaun Prince;Austin Daye];[Hamed Haddadi;Rudy Gay]
+2013-02-21,Traded,TOR;PHO,[Sebastian Telfair];[Hamed Haddadi;2014 Round 2 Draft Pick (Lamar Patterson)]
+2013-07-10,Traded,TOR;NYK,[Marcus Camby;Steve Novak;Quentin Richardson;Xavier Thames;2016 Round 1 Draft Pick (Jakob Poltl);2017 Round 2 Draft Pick (Jonah Bolden)];[Andrea Bargnani]
+2013-07-10,Traded,NYK;TOR,[Andrea Bargnani];[Marcus Camby;Steve Novak;Quentin Richardson;Xavier Thames;2016 Round 1 Draft Pick (Jakob Poltl);2017 Round 2 Draft Pick (Jonah Bolden)]
+2013-07-15,Signed,TOR,Tyler Hansbrough
+2013-07-16,Signed,TOR,Dwight Buycks
+2013-07-17,Waived,TOR,Marcus Camby
+2013-07-22,Signed,TOR,D.J. Augustin
+2013-08-01,Signed,TOR,Austin Daye
+2013-09-03,Waived,TOR,Quentin Richardson
+2013-09-19,Signed,TOR,Chris Wright
+2013-09-19,Signed,TOR,[]
+2013-09-19,Signed,TOR,Julyan Stone
+2013-12-09,Traded,SAC;TOR,[Quincy Acy;Rudy Gay;Aaron Gray];[Chuck Hayes;Patrick Patterson;John Salmons;Greivis Vasquez]
+2014-02-20,Traded,TOR;SAS,[Nando De Colo];[Austin Daye]
+2014-06-26,Drafted,TOR,Bruno Caboclo
+2014-06-26,Drafted,TOR,DeAndre Daniels
+2014-06-26,Drafted,TOR,Xavier Thames
+2014-06-27,Traded,TOR;BRK,[];[Xavier Thames]
+2014-06-27,Traded,TOR,Xavier Thames
+2014-06-29,Traded,ATL;TOR,[John Salmons];[Lucas Nogueira;Lou Williams]
+2014-07-07,Waived,TOR,Julyan Stone
+2014-07-08,Signed,TOR,Bruno Caboclo
+2014-07-10,Traded,TOR;UTA,[Diante Garrett];[Steve Novak;2017 Round 2 Draft Pick (Jonah Bolden)]
+2014-07-15,Signed,TOR,James Johnson
+2014-07-19,Waived,TOR,Diante Garrett
+2014-07-21,Waived,TOR,Dwight Buycks
+2014-08-03,Signed,TOR,Will Cherry
+2014-08-03,Signed,TOR,Lucas Nogueira
+2014-08-18,Signed,TOR,Jordan Hamilton
+2014-09-04,Signed,TOR,Greg Stiemsma
+2014-10-25,Waived,TOR,Will Cherry
+2014-10-25,Waived,TOR,Jordan Hamilton
+2015-06-25,Traded,TOR;MIL,[Norman Powell;2017 Round 1 Draft Pick (OG Anunoby)];[Greivis Vasquez]
+2015-06-25,Drafted,TOR,Delon Wright
+2015-06-30,Traded,TOR;OKC,[Luke Ridnour];[Tomislav Zubcic]
+2015-07-03,Signed,TOR,Delon Wright
+2015-07-09,Signed,TOR,DeMarre Carroll
+2015-07-09,Signed,TOR,Cory Joseph
+2015-07-09,Waived,TOR,Luke Ridnour
+2015-07-15,Signed,TOR,Luis Scola
+2015-07-15,Signed,TOR,Norman Powell
+2015-07-18,Signed,TOR,Bismack Biyombo
+2015-07-21,Signed,TOR,Ronald Roberts
+2015-07-23,Signed,TOR,Michale Kyser
+2015-07-23,Signed,TOR,Axel Toupane
+2015-08-21,Signed,TOR,Shannon Scott
+2015-09-27,Signed,TOR,Anthony Bennett
+2015-10-24,Waived,TOR,Michale Kyser
+2015-10-24,Waived,TOR,Shannon Scott
+2015-10-24,Waived,TOR,Axel Toupane
+2015-10-24,Waived,TOR,Ronald Roberts
+2016-03-01,Signed,TOR,Jason Thompson
+2016-03-01,Waived,TOR,Anthony Bennett
+2016-06-23,Drafted,TOR,Jakob Poltl
+2016-06-23,Drafted,TOR,Pascal Siakam
+2016-07-09,Signed,TOR,Jakob Poltl
+2016-07-09,Signed,TOR,Pascal Siakam
+2016-07-14,Signed,TOR,Jared Sullinger
+2016-07-14,Signed,TOR,DeMar DeRozan
+2016-07-18,Signed,TOR,Fred VanVleet
+2016-08-02,Signed,TOR,Jarrod Uthoff
+2016-08-11,Signed,TOR,Drew Crawford
+2016-08-11,Signed,TOR,Yanick Moreira
+2016-09-08,Signed,TOR,E.J. Singler
+2016-09-20,Signed,TOR,Brady Heslip
+2016-10-22,Waived,TOR,Drew Crawford
+2016-10-22,Waived,TOR,Brady Heslip
+2016-10-22,Waived,TOR,E.J. Singler
+2016-10-22,Waived,TOR,Jarrod Uthoff
+2016-10-22,Waived,TOR,Yanick Moreira
+2017-02-14,Traded,TOR;ORL,[Serge Ibaka];[Terrence Ross;Anzejs Pasecniks]
+2017-02-23,Traded,TOR;PHO,[P.J. Tucker];[Jared Sullinger;Alec Peters;2018 Round 2 Draft Pick (George King)]
+2017-06-22,Drafted,TOR,OG Anunoby
+2017-07-06,Signed,TOR,Malcolm Miller
+2017-07-07,Signed,TOR,Kyle Lowry
+2017-07-07,Signed,TOR,Serge Ibaka
+2017-07-09,Signed,TOR,Alfonzo McKinnie
+2017-07-09,Signed,TOR,OG Anunoby
+2017-07-13,Traded,TOR;BRK,[Justin Hamilton];[DeMarre Carroll;2018 Round 1 Draft Pick (Dzanan Musa);2018 Round 2 Draft Pick (Rodions Kurucs)]
+2017-07-14,Traded,IND;TOR,[Cory Joseph];[Emir Preldzic]
+2017-07-14,Waived,TOR,Justin Hamilton
+2017-07-18,Signed,TOR,Kennedy Meeks
+2017-07-18,Signed,TOR,C.J. Miles
+2017-07-25,Signed,TOR,Lorenzo Brown
+2017-08-15,Signed,TOR,Kyle Wiltjer
+2017-08-22,Signed,TOR,K.J. McDaniels
+2017-09-25,Signed,TOR,Andy Rautins
+2017-10-07,Waived,TOR,Kyle Wiltjer
+2017-10-07,Waived,TOR,Andy Rautins
+2017-10-07,Waived,TOR,Kennedy Meeks
+2017-10-08,Signed,TOR,Norman Powell
+2017-10-11,Signed,TOR,Davion Berry
+2017-10-14,Waived,TOR,Davion Berry
+2017-10-22,Waived,TOR,K.J. McDaniels
+2018-02-08,Traded,SAC;TOR,[Bruno Caboclo];[Malachi Richardson]
+2018-03-06,Signed,TOR,Nigel Hayes
+2018-07-06,Signed,TOR,Fred VanVleet
+2018-07-17,Waived,TOR,Alfonzo McKinnie
+2018-07-18,Traded,TOR;SAS,[Danny Green;Kawhi Leonard];[DeMar DeRozan;Jakob Poltl;2019 Round 1 Draft Pick (Keldon Johnson)]
+2018-07-20,Signed,TOR,Chris Boucher
+2018-07-20,Signed,TOR,Lorenzo Brown
+2018-08-07,Signed,TOR,Jordan Loyd
+2018-08-10,Signed,TOR,Greg Monroe
+2018-08-20,Signed,TOR,Kay Felder
+2018-09-13,Signed,TOR,Kyle Collinsworth
+2018-09-13,Signed,TOR,Deng Adel
+2018-09-21,Signed,TOR,Eric Moreland
+2018-10-12,Signed,TOR,Malcolm Miller
+2018-10-12,Signed,TOR,Chris Boucher
+2018-10-13,Waived,TOR,Deng Adel
+2018-10-13,Waived,TOR,Kyle Collinsworth
+2018-10-13,Waived,TOR,Kay Felder
+2018-10-13,Waived,TOR,Eric Moreland
+2018-10-13,Waived,TOR,Malcolm Miller
+2019-01-07,Waived,TOR,Lorenzo Brown
+2019-01-10,Signed,TOR,Patrick McCaw
+2019-02-06,Traded,PHI;TOR,[2022 Round 2 Draft Pick;Emir Preldzic;Malachi Richardson];[]
+2019-02-06,Traded,TOR,2022 Round 2 Draft Pick
+2019-02-07,Traded,TOR;BRK,[];[Greg Monroe;2021 Round 2 Draft Pick (JT Thor)]
+2019-02-07,Traded,MEM;TOR,[2024 Round 2 Draft Pick;C.J. Miles;Jonas Valanciunas;Delon Wright];[Marc Gasol]
+2019-02-07,Traded,TOR,Greg Monroe
+2019-02-09,Signed,TOR,Malcolm Miller
+2019-02-10,Converted,TOR,Chris Boucher
+2019-02-13,Signed,TOR,Jeremy Lin
+2019-02-20,Signed,TOR,Jodie Meeks
+2019-03-14,Signed,TOR,Eric Moreland
+2019-03-26,Signed,TOR,Jodie Meeks
+2019-04-09,Signed,TOR,Eric Moreland
+2019-06-20,Drafted,TOR,Dewan Hernandez
+2019-07-07,Signed,TOR,Patrick McCaw
+2019-07-10,Signed,TOR,Stanley Johnson
+2019-07-11,Signed,TOR,Terence Davis
+2019-07-12,Signed,TOR,Dewan Hernandez
+2019-07-17,Signed,TOR,Rondae Hollis-Jefferson
+2019-07-19,Signed,TOR,Matt Thomas
+2019-07-22,Signed,TOR,Devin Robinson
+2019-07-23,Signed,TOR,Oshae Brissett
+2019-07-23,Signed,TOR,Sagaba Konate
+2019-07-24,Signed,TOR,Cameron Payne
+2019-08-02,Waived,TOR,Jordan Loyd
+2019-09-19,Signed,TOR,Isaiah Taylor
+2019-10-14,Signed,TOR,Kyle Lowry
+2019-10-16,Waived,TOR,Sagaba Konate
+2019-10-17,Signed,TOR,Matt Morgan
+2019-10-18,Waived,TOR,Matt Morgan
+2019-10-19,Waived,TOR,Cameron Payne
+2019-10-19,Waived,TOR,Devin Robinson
+2019-10-20,Signed,TOR,Tyler Ennis
+2019-10-20,Waived,TOR,Tyler Ennis
+2019-10-21,Signed,TOR,Pascal Siakam
+2019-10-21,Signed,TOR,Oshae Brissett
+2019-10-22,Waived,TOR,Isaiah Taylor
+2019-10-23,Signed,TOR,Shamorie Ponds
+2020-01-15,Signed,TOR,Paul Watson
+2020-01-15,Waived,TOR,Shamorie Ponds
+2020-11-18,Drafted,TOR,Malachi Flynn
+2020-11-18,Drafted,TOR,Jalen Harris
+2020-11-24,Signed,TOR,Aron Baynes
+2020-11-24,Signed,TOR,Fred VanVleet
+2020-11-25,Signed,TOR,DeAndre' Bembry
+2020-11-25,Signed,TOR,Alex Len
+2020-11-25,Signed,TOR,Chris Boucher
+2020-11-26,Signed,TOR,Henry Ellenson
+2020-11-26,Signed,TOR,Malachi Flynn
+2020-11-26,Waived,TOR,Dewan Hernandez
+2020-11-27,Signed,TOR,Yuta Watanabe
+2020-11-28,Signed,TOR,Alize Johnson
+2020-11-28,Signed,TOR,Oshae Brisset
+2020-11-28,Signed,TOR,Jalen Harris
+2020-12-19,Converted,TOR,Paul Watson
+2020-12-19,Signed,TOR,Dewan Hernandez
+2020-12-19,Signed,TOR,Tres Tinkle
+2020-12-19,Signed,TOR,Breein Tyree
+2020-12-19,Waived,TOR,Oshae Brisset
+2020-12-19,Waived,TOR,Henry Ellenson
+2020-12-19,Waived,TOR,Alize Johnson
+2020-12-19,Waived,TOR,Dewan Hernandez
+2020-12-19,Waived,TOR,Tres Tinkle
+2020-12-19,Waived,TOR,Breein Tyree
+2021-01-19,Waived,TOR,Alex Len
+2021-02-26,Signed,TOR,Donta Hall
+2021-03-10,Signed,TOR,Henry Ellenson
+2021-03-25,Traded,TOR;POR,[Rodney Hood;Gary Trent Jr.];[Norman Powell]
+2021-03-25,Traded,SAC;TOR,[];[Dalano Banton]
+2021-03-25,Traded,TOR;UTA,[David Johnson];[Matt Thomas]
+2021-04-08,Signed,TOR,Freddie Gillespie
+2021-04-09,Waived,TOR,Patrick McCaw
+2021-04-10,Signed,TOR,Khem Birch
+2021-04-18,Signed,TOR,Freddie Gillespie
+2021-04-18,Converted,TOR,Yuta Watanabe
+2021-04-28,Signed,TOR,Freddie Gillespie
+2021-07-29,Drafted,TOR,Scottie Barnes
+2021-07-29,Drafted,TOR,Dalano Banton
+2021-07-29,Drafted,TOR,David Johnson
+2021-08-03,Waived,TOR,Paul Watson
+2021-08-03,Waived,TOR,Rodney Hood
+2021-08-03,Waived,TOR,DeAndre' Bembry
+2021-08-04,Waived,TOR,Aron Baynes
+2021-08-06,Traded,TOR;MIA,[Precious Achiuwa;Goran Dragic];[Kyle Lowry]
+2021-08-06,Signed,TOR,Kyle Lowry
+2021-08-06,Signed,TOR,Khem Birch
+2021-08-07,Signed,TOR,Ishmail Wainright
+2021-08-07,Signed,TOR,Gary Trent Jr.
+2021-08-07,Signed,TOR,Justin Champagnie
+2021-08-08,Signed,TOR,Scottie Barnes
+2021-08-08,Signed,TOR,David Johnson
+2021-08-09,Signed,TOR,Sam Dekker
+2021-08-11,Signed,TOR,Isaac Bonga
+2021-08-13,Signed,TOR,Dalano Banton
+2021-08-31,Signed,TOR,Sviatoslav Mykhailiuk
+2021-09-21,Signed,TOR,Reggie Perry
+2021-10-13,Signed,TOR,Josh Hall
+2021-10-13,Signed,TOR,Alex AntetoKounmpo
+2021-10-13,Waived,TOR,Reggie Perry
+2021-10-13,Waived,TOR,Freddie Gillespie
+2021-10-15,Signed,TOR,Ashton Hagans
+2021-10-15,Signed,TOR,Breein Tyree
+2021-10-15,Waived,TOR,Alex AntetoKounmpo
+2021-10-15,Waived,TOR,Josh Hall
+2021-10-16,Waived,TOR,Ashton Hagans
+2021-10-16,Waived,TOR,Breein Tyree
+2021-10-16,Waived,TOR,Ishmail Wainright
+2021-11-06,Waived,TOR,Sam Dekker
